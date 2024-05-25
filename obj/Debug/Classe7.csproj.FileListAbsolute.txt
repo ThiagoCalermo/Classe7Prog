@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Classe7\Classe7\bin\Debug\Classe7.exe.config
+C:\Users\Asus\source\repos\Classe7\Classe7\bin\Debug\Classe7.exe
+C:\Users\Asus\source\repos\Classe7\Classe7\bin\Debug\Classe7.pdb
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.Form1.resources
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.Properties.Resources.resources
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.exe
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.pdb
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.FormNuevo.resources
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.FormModificar.resources
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.FormModificarMarca.resources
+C:\Users\Asus\source\repos\Classe7\Classe7\obj\Debug\Classe7.FormNuevoMarca.resources
